@@ -1,4 +1,4 @@
-# criminal_network_analysis_system
+# criminal_network_analysis_system .plz click on index.html and download it then you get the dashbord of this detection system 
 [index.html](https://github.com/user-attachments/files/33699331/index.html)
 <!DOCTYPE html>
 
